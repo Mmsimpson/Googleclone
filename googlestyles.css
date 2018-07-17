@@ -1,0 +1,33 @@
+
+
+ul.left {
+    list-style-type: none;
+    text-align: left;
+    height: 25px; 
+    width: 30px;
+    border-width: 3px;
+    border-style: none;
+
+}
+ul.right {
+    list-style-type: none; 
+    display: inline; 
+    margin-left: 10px;
+
+}
+h1.logo {
+
+    text-align: center;
+    font-size: 75px;
+    width: 200px;
+    height: 250px;
+}
+
+div{
+    text-align: center;
+    margin: 0 auto;
+    padding: 50px;
+    width: 200px;
+    
+    
+
